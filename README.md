@@ -82,13 +82,9 @@
 
 ## 📌 Featured Projects
 
-⭐ NutriKart – AI-powered preventive health grocery platform
-
 ⭐ MaaSathi AI – AI maternal healthcare assistant
 
 ⭐ Graphix Vibe Studio – Full Stack E-Commerce Platform
-
-⭐ Smart Recipe & Grocery Planner
 
 ---
 
