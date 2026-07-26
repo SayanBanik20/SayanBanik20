@@ -79,9 +79,10 @@
 
 ⭐ MaaSathi AI – AI maternal healthcare assistant
 
-⭐ Graphix Vibe Studio – Full Stack E-Commerce Platform
+⭐ Graphix Vibe Studio – Full Stack E-Commerce Platform 
 
-⭐ Jan Seva – Citizen-Powered Governance Platform
+⭐ Jan Seva - Citizen-Powered Governance Platform
+
 ---
 
 ## 🌐 Connect with Me
