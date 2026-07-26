@@ -21,15 +21,15 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://skills.syvixor.com/api/icons?i=c&perline=12&radius=40)
+![C++](https://skills.syvixor.com/api/icons?i=cpp&perline=12&radius=40)
+![Python](https://skills.syvixor.com/api/icons?i=python&perline=12&radius=40)
+![JavaScript](https://skills.syvixor.com/api/icons?i=javascript&perline=12&radius=40)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![React](https://skills.syvixor.com/api/icons?i=preact&perline=12&radius=40)
+![TypeScript](https://skills.syvixor.com/api/icons?i=typescript&perline=12&radius=40)
+![TailwindCSS](https://skills.syvixor.com/api/icons?i=tailwindcss&perline=12&radius=40)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
@@ -47,15 +47,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
+<!--## 📈 GitHub Stats
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SayanBanik20&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanBanik20&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
+</p> -->
 ## 🔥 GitHub Streak
 
 <p align="center">
