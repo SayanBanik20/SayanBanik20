@@ -81,6 +81,7 @@
 
 ⭐ Graphix Vibe Studio – Full Stack E-Commerce Platform
 
+⭐ Jan Seva – Citizen-Powered Governance Platform
 ---
 
 ## 🌐 Connect with Me
