@@ -64,14 +64,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
+<!--## 🏆 GitHub Trophies
+ <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"/>
-</p>
-
----
-
+</p> -->
 ## 🐍 Contribution Snake
 
 <p align="center">
