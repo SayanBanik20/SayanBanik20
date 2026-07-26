@@ -86,8 +86,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sayan-banik-6aa88536a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:sayanbanik86852@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sayan-banik-6aa88536a/"><img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40"></a>
+<a href="mailto:sayanbanik86852@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=40"></a>
 </p>
 
 ---
