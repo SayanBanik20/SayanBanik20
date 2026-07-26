@@ -32,18 +32,21 @@
 ![TailwindCSS](https://skills.syvixor.com/api/icons?i=tailwindcss&perline=12&radius=40)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NodeJS](https://skills.syvixor.com/api/icons?i=nodejs&perline=12&radius=40)
+![Express](https://skills.syvixor.com/api/icons?i=expressjs&perline=12&radius=40)
 
 ### Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Firebase](https://skills.syvixor.com/api/icons?i=firebase&perline=12&radius=40)
+![Supabase](https://skills.syvixor.com/api/icons?i=supabase&perline=12&radius=40)
 
 ### AI & Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://skills.syvixor.com/api/icons?i=git&perline=12&radius=40)
+![Git Bash](https://skills.syvixor.com/api/icons?i=gitbash&perline=12&radius=40)
+![GitHub](https://skills.syvixor.com/api/icons?i=github&perline=12&radius=40)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Google Gemini](https://skills.syvixor.com/api/icons?i=googlegemini&perline=12&radius=40)
+![Lovable](https://skills.syvixor.com/api/icons?i=lovable&perline=12&radius=40)
+![Claude AI](https://skills.syvixor.com/api/icons?i=claudeai&perline=12&radius=40)
 
 ---
 
